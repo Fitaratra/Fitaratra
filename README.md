@@ -1,41 +1,49 @@
 <div align="center">
-  <h1>Tommy RAZAFIMAHEFA</h1>
+  <h2>Hello 👋</h2>
+  <h1>I'm Tommy RAZAFIMAHEFA</h1>
   <h3>Delopper Web and Mobile • DevOps </h3>
   <p>Crafting elegant and maintainable software where genuine passion meets rigorous engineering best practices.</p>
   <br />
+  <img src="https://komarev.com/ghpvc/?username=Fitaratra&color=blueviolet" alt="Profile views" />
 </div>
 
-<h3>⚡ Core Technologies</h3>
+<h3>⚙️ Core Technologies</h3>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
         <p><b>Languages</b></p>
-        <!-- Changez les noms après "i=" (ex: python,js,bash) -->
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,php,java,python&perline=3" /></a>
+        <!-- Exemple : TypeScript, JavaScript, Python -->
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,php,java,py&perline=5" /></a>
       </td>
       <td align="center" width="33%">
-        <p><b>Frameworks</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,reactnative,laravel,spring,express,fastapi,next,tailwind,flutter&perline=4" /></a>
-      </td
+        <p><b>Frontend Development</b></p>
+        <!-- Exemple : React, Next.js, TailwindCSS -->
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,jquery,figma&perline=5" /></a>
+      </td>
       <td align="center" width="33%">
-        <p><b>Databases</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=3" /></a>
+        <p><b>Backend & APIs</b></p>
+        <!-- Exemple : Node.js, NestJS, Express -->
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring,fastapi&perline=5" /></a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <p><b>DevOps & Automation</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,jenkins,kubernetes&perline=4" /></a>
+        <p><b>Databases</b></p>
+        <!-- Exemple : PostgreSQL, MongoDB, Redis -->
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=5" /></a>
       </td>
       <td align="center">
-        <p><b>Operating Systems</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux&perline=2" /></a>
+        <!-- 💡 C'est cette section qui prouve vos "bonnes pratiques" -->
+        <p><b>Testing & Quality</b></p>
+        <!-- Exemple : Git, Jest (pour les tests), Postman -->
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman&perline=5" /></a>
       </td>
       <td align="center">
-        <p><b>Tools</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,vscode,postman,arduino&perline=2" /></a>
+        <p><b>DevOps & CI/CD</b></p>
+        <!-- Exemple : Docker, GitHub Actions, Linux -->
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,jenkins&perline=5" /></a>
       </td>
     </tr>
   </table>
@@ -44,8 +52,7 @@
 <!-- Carte de Statistiques (Streak) -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <!-- Remplacez "VOTRE_PSEUDO" par votre vrai nom d'utilisateur GitHub -->
-    <img src="https://streak-stats.demolab.com?user=Fitaratra&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Fitaratra&theme=buefy-dark&hide_border=true" alt="GitHub Streak de Fitaratra" />
   </a>
 </div>
 
