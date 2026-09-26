@@ -17,29 +17,29 @@
     <tr>
       <td align="center" width="33%">
         <p><b>Languages</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,php,java,py&perline=5" /></a>
+        <img src="https://skillicons.dev/icons?i=ts,js,php,java,py&perline=5" />
       </td>
       <td align="center" width="33%">
         <p><b>Frontend Development</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,jquery,figma&perline=5" /></a>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,jquery,figma&perline=5" />
       </td>
       <td align="center" width="33%">
         <p><b>Backend & APIs</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring,fastapi&perline=5" /></a>
+        <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring,fastapi&perline=5" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <p><b>Databases</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=5" /></a>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=5" />
       </td>
       <td align="center">
         <p><b>Testing & Quality</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman&perline=5" /></a>
+        <img src="https://skillicons.dev/icons?i=git,postman&perline=5" />
       </td>
       <td align="center">
         <p><b>DevOps & CI/CD</b></p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,jenkins&perline=5" /></a>
+        <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,jenkins&perline=5" />
       </td>
     </tr>
   </table>
